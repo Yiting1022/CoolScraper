@@ -25,5 +25,5 @@ The script will generate an output file `final_output.txt` that will contain the
 
 ## Note
 
-If you're using the --cookie argument, make sure you have a cookie.json file in the same directory as the script.
+If you're using the `--cookie` argument, make sure you have a cookie.json file in the same directory as the script.
 
