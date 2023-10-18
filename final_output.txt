@@ -1,0 +1,1504 @@
+16: NTU DLC Test2
+20: 課程數位化百寶箱
+130: 107-1 Optimization Algorithms 最佳化演算法
+156: 2019 TA 研習營試用課程
+179: NTU DLC Test4
+215: 107-2 資料結構與演算法
+230: 107-2 西洋文學概論二
+233: 107-2 Prediction, Learning, and Games
+251: 107-2 服務學習三
+366: 智慧型汽車導論 Introduction to Intelligent Vehicles
+382: 最佳化演算法 Optimization Algorithms 
+394: 服務學習二 Student Service Education (Ⅱ)
+395: 服務學習三 Student Service Education (Ⅲ)
+449: 總體經濟學甲上 Macroeconomics (a)(Ⅰ)
+487: 資訊組測試
+662: 前瞻資訊科技一 Computer Science and Information Technology (Ⅰ)
+694: 微積分甲考古題
+709: 微積分乙考古題
+750: 數位系統與實驗 Digital Systems Design and Laboratory
+751: 醫學電資整合創意專題(二) Special Topics in Innovative Integration of Medicine and EECS (II)
+752: 預測、學習、與賽局 Prediction, Learning, and Games
+802: 服務學習三 Student Service Education (Ⅲ)
+803: 服務學習二 Student Service Education (Ⅱ)
+814: 資料結構與演算法 Data Structures and Algorithms
+953: 日文翻譯一下 Japanese Translation (Ⅰ) (2)
+986: Global Health Policy
+1421: 生物產業工程實習 Bio-industrial Engineering Practice
+1711: 前瞻生命科學論壇 Global Frontier in Life Science
+1838: 數位TA訓練課程
+2288: 探索臺灣：女性與臺灣社會 Exploring Taiwan: Women and Taiwanese Society
+3048: COOL測試網站
+3080: COOL測試網站
+3102: 110 年新進教師研習營
+3164: 智慧型汽車導論 Introduction to Intelligent Vehicles
+3275: 演算法 Algorithms
+3280: 森林生物多樣性概論 Introduction to Forest Biodiversity
+3292: 109 COOL 測試課程
+3404: 英文一 Freshman English (Ⅰ)
+3405: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+3406: 進階英語一(綜合) Online English Program Ⅰ (general)
+3428: 專題討論一 Seminar (Ⅰ)
+3436: 最佳化演算法 Optimization Algorithms
+3464: 公民教育概論與實踐 Introduction to Civic Education
+3532: 證券市場微結構理論 Security Market Microstructure
+3533: 高等作業系統 Advanced Operating System
+3534: 服務學習三 Student Service Education (Ⅲ)
+3535: 服務學習乙 Service Learning (b)
+3536: 英文一 Freshman English (Ⅰ)
+3556: 西洋文學概論一 Introduction to Western Literature (Ⅰ)
+3765: 精密量測 Precision Metrology
+3895: 水資源系統分析 Water Resources System Analysis
+4194: 國際生實用華語 (一) Chinese Enhancing Course (I)
+4345: 測試合併課程02
+4448: 學術英語面面觀 English for Academic Purposes
+4549: 作業系統 Operating Systems
+4557: 數位系統與實驗 Digital Systems Design and Laboratory
+4723: 森林生物多樣性概論 Introduction to Forest Biodiversity
+4726: 0205 Course
+4875: 預測、學習、與賽局 Prediction, Learning, and Games
+4973: 服務學習三 Student Service Education (Ⅲ)
+4974: 服務學習乙 Service Learning (b)
+4975: 中世紀英國文學 Medieval English Literature
+5166: 西洋文學概論二 Introduction to Western Literature (Ⅱ)
+5284: 光譜與對稱 Spectroscopy and Symmetry
+5342: 民法債編總論一 Civil Code-general Provisions of Obligations (Ⅰ)
+5562: 普通化學實驗多媒體示範教學網 Online Learning for General Chemistry Lab 
+6578: 育欣的測試課程
+6805: 109-2學期教師增能活動─教師精進bit by BIT
+7107: 周易甲上 Book of Changes (a)(1)
+7108: 大學國文：文言文導讀上 Introduction to Classical Chinese(1)
+7109: 大學國文：閱讀與寫作（一） College Chinese: Reading and Writing (I)
+7110: 臺灣現代詩 Taiwan Modern Poetry
+7119: 學生方程式賽車培訓 (Formula SAE Training)
+7130: 莎士比亞十四行詩 Shakespeare’s Sonnets
+7137: 漢語概說 The Chinese Language
+7138: 聲韻學甲上 Chinese Phonology (a)(1)
+7143: 學術研究與寫作初階 Basic Academic Writing
+7144: 中國文學史概說一 The Introduction of Chinese Literature History (Ⅰ)
+7145: 歷代文選及習作上 Readings in Chinese Prose with Writing Practice (1)
+7151: 十四行詩工作坊 Sonnet Workshop
+7158: 無線網路基礎與應用 Wireless Networking – Fundamentals and Applications
+7175: 大學國文：閱讀與寫作（一） College Chinese: Reading and Writing (I)
+7176: 大學國文：文化思想與寫作（一） College Chinese: Culture, Thought and Writing (Ⅰ)
+7177: 歷代文選及習作上 Readings in Chinese Prose with Writing Practice (1)
+7178: 儒家經典選讀 Selected readings from the Confucianism classics
+7179: 大學國文：文化思想與寫作（一） College Chinese: Culture, Thought and Writing (Ⅰ)
+7185: 大學國文：文學鑑賞與寫作（一） College Chinese: Literature Appreciation and Writing (I)
+7186: 智慧型汽車導論 Introduction to Intelligent Vehicles
+7191: 統計學一上 Statistics (I)(1)
+7195: 文學概論上 Introduction to Literature (1)
+7198: 生命科學導論 Introduction to Life Sciences
+7214: 大學國文：僑生、國際學生國文上 College Chinese for Overseas Chinese Students and International Students(1)
+7217: 訓詁學上 Semantics (1)
+7248: 大學國文：文化思想與寫作（一） College Chinese: Culture, Thought and Writing (Ⅰ)
+7255: 工程數學-線性代數 Engineering Mathematics-linear Algebra
+7279: 固態物理 Solid-state Physics
+7280: 材料熱力學一 Thermodynamics of Materials (Ⅰ)
+7281: 明清詩選讀 Chinese poetry in the 16th-19th Century
+7282: 最佳化演算法 Optimization Algorithms
+7285: 初級中國文字學上 Introduction to Chinese Characters ( Including Calligraphy)(1)
+7293: 大學國文：閱讀與寫作（一） College Chinese: Reading and Writing (I)
+7307: 金融科技 Financial Technology
+7315: 文字學乙上 Chinese Paleography (b)(1)
+7316: 大學國文：閱讀與寫作（一） College Chinese: Reading and Writing (I)
+7318: 大學國文：文學鑑賞與寫作（一） College Chinese: Literature Appreciation and Writing (I)
+7319: 電磁學 Electromagnetics
+7335: 大學國文：閱讀與寫作（一） College Chinese: Reading and Writing (I)
+7336: 現代中文及習作二上 Modern Chinese and Composition (Ⅱ)(1)
+7338: 程式設計與資料分析 Programming and Data Analysis
+7347: 健康大數據分析 Analysis of Big Data in Health
+7349: 領導力講座 Leadership Lectures
+7358: 生命的學問 Wisdom of Life
+7359: 新生講座-活出精彩 Freshman Forum -The Pursuit of Happiness
+7363: 公民教育概論與實踐 Introduction to Civic Education
+7383: 計算機程式設計 Introduction to Computer Programming
+7391: 自然地理調查方法 Investigation Methods in Physical Geography
+7392: 金屬製程 Metal Processing
+7396: 金屬材料特論 Special Topics on Metallic Materials
+7412: 國際遷移 International Migration
+7419: 空間資料蒐集方法 Spatial Data Collection Methods
+7425: 青少年福利服務專題 Seminar on Social Services and Policies to Youths
+7431: 水質化學 Water Chemistry
+7432: 海洋溶解有機物導論 Introduction to Marine Dissolved Organic Matter
+7433: 沿岸海洋學 Shelf and Coastal Oceanography
+7437: 服務學習三 Student Service Education (Ⅲ)
+7438: 服務學習乙 Service Learning (b)
+7439: 英文一 Freshman English (Ⅰ)
+7455: 喬伊斯小說 Selected Readings of James Joyce's Fiction
+7461: 服務學習甲校內服務 Service Learning (A) School Support Service
+7468: 雲動力學 Cloud Dynamics
+7477: 系統動態學 System Dynamics
+7479: 膠體與界面現象 Colloid and Interfacial Phenomena
+7482: 小說選上 Readings in Chinese Fiction (1)
+7483: 單元操作專題 Selected Topics in Unit Operations
+7493: 月經:理論、思潮與行動 Period: Theory, Thoughts and Actions
+7495: 助人專業者之個人成長專題 Topics in Self Development for Helping Professionals
+7514: 閱讀理解策略教學 Reading and Comprehension Strategy Instruction
+7516: 族群生態與漁業資源永續 Population Ecology and Sustainable Fisheries Resources
+7519: 生物統計學 Biostatistics
+7543: 110-1 普通化學實驗多媒體示範教學網 Online Learning for General Chemistry Lab 
+7553: 經濟史一 Economic History (Ⅰ)
+7565: 內外科護理學一 Medical-surgical Nursing (Ⅰ)
+7569: 環境生態學 Environmental Ecology
+7598: 天文數據分析 Data Analysis in Astronomy
+7606: 認識基本權與基本權案例研習 Introduction to Fundamental Rights with Case Studies
+7607: 憲政國家運作原理與實例分析 Constitutional Law: Fundamental Priciples and Consititutional Organs
+7608: 法學論證與論文寫作方法 Legal Argumentation and Thesis Writing
+7612: 身體檢查與評估 Health Assessment
+7619: 個體經濟學原理 Principle of Microeconomics
+7620: 總體經濟學甲上 Macroeconomics (a)(Ⅰ)
+7624: 虛擬機器 Virtual Machines
+7657: 會計學甲一上 Financial Accounting (A)(I)(1)
+7661: 近世東亞詩話專題研究 Studies of Poetic Discourse of East Asia in Premodern Period
+7666: 食品營養概論 Introduction to Nutrition and Food
+7667: 應用免疫學 Applied Immunology
+7670: 探索臺灣：農業與食品生技 Exploring Taiwan: Agricultural and food biotechnology
+7685: 化石 Fossils
+7698: 柔道初級 Beginning Judo
+7700: 普通物理學甲上 General Physics (a)(1)
+7707: 健康體適能 Health Related Physical Fitness
+7708: 健康體適能 Health Related Physical Fitness
+7709: 健康體適能 Health Related Physical Fitness
+7710: 健康體適能 Health Related Physical Fitness
+7711: 健康體適能 Health Related Physical Fitness
+7712: 健康體適能 Health Related Physical Fitness
+7713: 健康體適能 Health Related Physical Fitness
+7718: 遊戲設計 Game Programming
+7724: 足球初級 Beginning Soccer
+7725: 足球中級 Soccer-intermediate
+7726: 室內五人制足球初級 Beginning Futsal (indoor Soccer)
+7728: 健康體適能 Health Related Physical Fitness
+7729: 健康體適能 Health Related Physical Fitness
+7741: 公法專題 Seminar on Public Law
+7748: 清代臺灣開發史 History of Taiwan's Development in the Ching Period
+7749: 應用賽局理論 Applied Game Theory
+7752: 行政法一 Administrative Law
+7755: 精神醫療社會工作 Psychiatric Social Work
+7758: 國際公法 International Law
+7763: 中國政治思想專題 Seminar on Chinese Political Thoughts
+7765: 國際關係一 Introduction to International Relations (Ⅰ)
+7767: 近代日本國際關係專題 Seminar on International Relations of Modern Japan
+7773: 國學概說上 Introduction to Classical Chinese Studies (1)
+7774: 計算機程式設計 Computer Programming
+7776: 身體檢查與評估 Health Assessment
+7785: 身體檢查與評估實習 Health Assessment Practice
+7786: 內外科護理學一 Medical-surgical Nursing(Ⅰ)
+7787: 內外科護理學二 Medical-surgical Nursing(Ⅱ)
+7791: 一般醫學保健 Primary Care Medicine and Health
+7804: 極區氣候變化 Polar Climate Change
+7808: 生物資訊學導論 Introduction to Bioinformatics
+7810: 族群遺傳學 Population Genetics
+7811: 演化生物學 Evolutionary Biology
+7825: 文化創意產業 Cultural Industries
+7832: 複幾何初步 An introduction to complex geometry
+7835: 兩漢史傳故事選一 Selected Readings in Historical stories of the Han DynastyⅠ
+7836: 大學國文：閱讀與寫作（一） College Chinese: Reading and Writing (I)
+7841: 工程數學1 Engineering Mathematics 1
+7842: 中等流體力學 Intermediate Fluid Mechanics
+7846: 法文一上 French (Ⅰ)(1)
+7848: 民法債編總論二 Civil Code-general Provisions of Obligations (Ⅱ)
+7851: BIM技術與應用 Technology and Application of BIM
+7853: 專題討論一 Seminar (Ⅰ)
+7865: 普通植物學實驗 General  Botany  Lab.
+7875: 全球創新的原理與實踐 Principles and Practices of Global Innovation
+7884: 新生專題 Freshman Seminar
+7899: 研究方法與表達 Research methods and presentation
+7901: 分析一 Analysis(Honor Program)(Ⅰ)
+7912: 健康與健康照護的社會與行為基礎 Social and Behavioral Foundations of Health and Health Care
+7915: 微積分預備課程 Precalculus
+7916: 植物生理學 Plant  Physiology
+7924: 發生生物學 Developmental  Biology
+7927: 比較憲法與轉型正義：全球案例 Comparative Constitutional Law and Transitional Justice: Global Cases
+7952: 中國思想史專題研究 Seminar on Chinese Intellectual History
+7953: 中國思想史 Chinese Intellectual History
+7955: 香港的歷史與文化 History and Culture of Hong Kong
+7964: 當代小說研究專論 Issues of Contemporary Fiction Studies
+7965: 普通物理學甲上 General Physics (a)(1)
+7970: 證券市場微結構理論 Security Market Microstructure
+7971: 商業賽局模型一 Game Theory with Applications to Marketing and Finance (Ⅰ)
+7972: 工程系統之熱管理對策 Thermal Management Strategy for Engineering Systems
+7995: 新生講座-能力養成 Freshman Forum
+7996: 最佳設計 Optimization in Engineering
+7999: 普通生物學實驗丙 General  Biology  Lab. (c)
+8011: 腦功能影像實驗設計與分析 Functional Brain Imaging Experimental Design and Analysis
+8012: 國際投資法與投資仲裁專題討論一 Seminar on International Investment Law and Investment Arbitration(Ⅰ)
+8013: 國際投資法與投資仲裁專題討論二 Seminar on International Investment Law and Investment Arbitration(Ⅱ)
+8014: 國際投資法與投資仲裁專題討論三 Seminar on International Investment Law and Investment Arbitration (Ⅲ)
+8024: 認知科學 Cognitive Science
+8026: WTO法律與實務專題研究一 Seminar on WTO Law and Practice (Ⅰ)
+8027: WTO法律與實務專題研究二 Seminar on WTO Law and Practice (Ⅱ)
+8028: WTO法律與實務專題研究三 Seminar on WTO Law and Practice (Ⅲ)
+8039: 認知神經科學 Cognitive Neuroscience
+8047: 普通植物學實驗 General  Botany  Lab.
+8053: 都市更新與再生 Urban Renewal and Regeneration
+8056: 領導學導論 Introduction to Leadership
+8057: 動物組織學 Animal Histology
+8058: 動物組織學 Animal Histology
+8059: 動物組織學實習 Animal Histology Lab.
+8060: 動物組織學實習 Animal Histology Lab.
+8073: 你所不知道的昆蟲學 What Really Bugs You
+8078: 專題討論 Seminar
+8079: 金融機構與銀行法 Regulations of Financial Institutions and Banks
+8080: 金融科技法制與政策專題研究一 Seminar on FinTech Laws and Policies (Ⅰ)
+8110: 人類發展學 Human Development
+8115: 創新醫療器材設計 Medical Device Innovation
+8118: 古希臘文與古典學導論一 Ancient Greek and Introduction to the Sciences of the Antiquity(Ⅰ)
+8131: 環境微生物學 Environmental Microbiology
+8132: 植物細胞與組織培養實習 Plant Cell and Tissue Culture Lab.
+8147: 探索臺灣：自然資源保育與經營管理 Exploring Taiwan: Natural Resources Conservation and Management
+8148: 林業概論 Introduction to Forestry
+8172: 線蟲學與實驗 Nematology and Lab.
+8174: 統計學一上 Statistics (I)(1)
+8176: 中譯英 Translation (Chinese to English)
+8178: 翻譯實作上 Translation Practicum (1)
+8182: 力生物學導論 Introduction to Mechanobiology
+8184: 系統專題研究-物聯網中介軟體設計 System Design Topic - Design for IoT Middleware
+8202: 語料庫輔助華語教學 Corpus-assisted Chinese language teaching
+8205: 創意電資工程入門教育設計 Creative Cornerstone Course Design for ICT and Engineering Education
+8208: 國際生商務華語 Business Chinese
+8230: 預測，語言，與大腦 Prediction, language, and the brain
+8231: 近世代數一 Modern Algebra (Ⅰ)
+8247: 幸福與人生 Well-Being And Life
+8259: 德文法學名著選讀一 Selected Readings of German Jurisprudence (Ⅰ)
+8260: 德文法學名著選讀二 Selected Readings of German Jurisprudence (Ⅱ)
+8274: 東南亞政治 Politics of Southeast Asia
+8275: 研究大綱寫作 Crafting Research Proposal
+8291: 古希臘文學史 History of Ancient Greek Literature
+8300: 密碼學 Cryptography
+8304: 賽局論 Game Theory
+8309: 典藏自然：自然史博物館巡禮 Archiving Nature: Introduction to the Natural History Museums
+8313: 詩選及習作甲上 Readings in Chinese Poetry with Writing Practice (a)(1)
+8314: 西洋文學概論一 Introduction to Western Literature (Ⅰ)
+8331: 國際人權法專題討論一 Seminar on International Human Right Law (Ⅰ)
+8332: 個體經濟學原理與實習 Principle of Microeconomics (with Recitation)
+8335: 比較政府一 Comparative Government (Ⅰ)
+8351: 生物化學乙上 Biochemistry(b) (1)
+8352: 統計學 Statistics
+8363: 學士論文 Thesis (B.A.)
+8379: 二十世紀英國文學 Twentieth-century English Literature
+8386: 藝術與創作 Creative Thinking
+8388: 中等流體力學 Intermediate Fluid Mechanics
+8389: 感染研究：暴力、政治與文化 Studies of Contagions: Violence, Politics and Culture
+8391: 大洋洲民族誌 Ethnography of Oceania
+8397: 個體經濟學上 Microeconomics (1)
+8413: 歷史上東亞的帝國及其敵人 The Empires and Their Enemies in Pre-modern East Asia
+8418: 中階統計 Intermediate Statistics
+8435: 西班牙文一上 Spanish (Ⅰ)(1)
+8436: 西班牙文二上 Spanish (Ⅱ)(1)
+8439: 日文一上 Japanese (Ⅰ) (1)
+8440: 日文一上 Japanese (Ⅰ) (1)
+8441: 日文二上 Japanese (Ⅱ) (1)
+8445: 健康經濟學導論 Introduction to Health Economics
+8449: 微積分1 CALCULUS (1)
+8451: 微積分1 CALCULUS (1)
+8453: 微積分1 CALCULUS (1)
+8454: 微積分2 CALCULUS (2)
+8460: 跨科技整合與應用\tINTERDISCIPLINARY TECHNOLOGIES AND APPLICATIONS
+8461: 森林資源及綠色產業 FOREST RESOURCES AND GREEN INDUSTRY
+8462: 物流管理 Logistics Management
+8469: 健康體適能 Health Related Physical Fitness
+8478: 微生物基因體學 Microbial Genomics
+8479: 微生物與疾病 Microbes and Disease
+8482: 微生物基因體學 Microbial Genomics
+8496: 電子學（一） Electronics (Ⅰ)
+8497: 作物科學導論 Introduction to Crop Science
+8498: 交換電路與邏輯設計 Switching Circuit and Logic Design
+8510: 秦漢學術思想史 Intellectual History of the Qin and Han Dynasties
+8519: 環境微生物 Environmental Microbiology
+8522: 疫苗學 Vaccinology
+8530: 環境保護法規 Environmental Laws and Regulations
+8533: 財務工程一 Financial Engineering (Ⅰ)
+8546: 現代神經科學技術 Modern Techniques in Neuroscience
+8553: 統計史導論 Introduction to the History of Statistics
+8554: 東亞民主化專題 Seminar on Asian Democratization
+8561: 英文作文一上 English Composition (Ⅰ)(1)
+8562: 普通化學甲上 General Chemistry (a)(1)
+8564: 環境化學 Environmental Chemistry
+8573: 都市微氣候研究專題討論 Special Topics on Urban Microclimatology Research
+8578: 計算機結構 Computer Architecture
+8583: 演算法設計與分析 Algorithm Design and Analysis
+8587: 深度學習實作與應用 Deep learning and its applications
+8589: 中國大陸政府與政治 Chinese Politics
+8596: 食用昆蟲學 Edible Insects
+8601: 西洋哲學史一 History of Western Philosophy (Ⅰ)
+8602: 《尼科馬哥倫理學》討論 Seminar on Nicomachean Ethics
+8608: 地球物質實習 Earth Materials Lab.
+8609: 地球物質實習 Earth Materials Lab.
+8610: 前瞻資訊科技一 Computer Science and Information Technology (Ⅰ)
+8617: 電子學一暨實驗 Microelectronics and Experiments (Ⅰ)
+8618: 專題討論 Seminar
+8621: 專題討論 Seminar
+8626: 讀中生智：英文批判閱讀 Reading to Connect
+8639: 早期美國文學 Early American Literature
+8645: 民法概要乙 Outline of Civil Code (b)
+8647: 研究方法學導論 Research Methodology
+8649: 熱力學 Thermodynamics
+8692: 高等高分子化學 Advanced Polymer Chemistry
+8694: 西洋戲劇名著選讀：古典 Classical Masterpieces of Western Drama
+8704: 專題討論三 Seminar (Ⅲ)
+8705: 電工實驗(電力電子) Power Electronics Laboratory
+8717: 專題討論 Seminar
+8721: 解剖學 Anatomy
+8724: 計算機結構 Computer Architecture
+8727: 廢棄物處理工程 Waste Treatment Engineering
+8741: 統計學一上 Statistics (I)(1)
+8761: 生理心理學 Physiological Psychology
+8770: 植病研究法 Methods in Plant Pathology
+8776: 營養教育與傳播 Nutrition Education and Communication
+8790: 普通化學實驗 General Chemistry Lab.
+8814: 民主與美國文學：形式或幻想 Democracy and American Literature: Form and Fantasy
+8818: 靜力學 Statics
+8841: 普通心理學 General Psychology
+8843: 蒙文一 Mongolian
+8844: 大學國文：文化思想與寫作（一） College Chinese: Culture, Thought and Writing (Ⅰ)
+8845: 大學國文：文化思想與寫作（一） College Chinese: Culture, Thought and Writing (Ⅰ)
+8846: 當代建築 Contemporary Achitecture
+8847: 建築設計 (三) Architectural Design (III)
+8848: 進階公司理財 Advanced Corporate Finance
+8854: 深度學習於電腦視覺 Deep Learning for Computer Vision
+8857: 計算機程式 Computer Programming
+8859: 蒙文（三） Intermediate Course in Uighur Mongolian
+8867: 金融市場與衍生性商品 Financial Market and Derivatives
+8869: 西班牙文二上 Spanish (Ⅱ)(1)
+8874: 奈米電子導論 Introduction to Nano-electronics
+8879: 工程數學-線性代數 Engineering Mathematics-linear Algebra
+8880: 大洋洲考古 Pacific Archaeology
+8881: 西班牙文一上 Spanish (Ⅰ)(1)
+8893: 研究法 Research Method
+8894: 運動行銷學 Sports marketing
+8895: 運動賽會管理 Managing Major Sports Events
+8903: 古典力學 Classical Mechanics
+8910: 氣候動力之當前研究 Current Research in Climate Dynamics
+8922: 應用線型統計模式 (一) Applied Linear Statistical Models (I)
+8933: 農業社會學專題討論 Seminar on Agriculture Sociology
+8936: 電工實驗(生醫工程) Electrical Engineering Lab (biomedical Engineering)
+8945: 數位行銷 Digital Marketing
+8946: 農業智慧財產權 Agricultural Intellectual Property Right
+8947: 華語文教材教法 Methods and Materials of Chinese Language Teaching
+8948: 水產養殖技術 Aquaculture Technology
+8949: 水產概論 Instroduction of Fisheries Science
+8950: 水產概論 Introduction of Fisheries Science
+8954: 金融市場與行銷 Seminars on Financial Market and Marketing
+8956: 高齡身體活動與營養研究 Physical Activity and Nutrition Research in Elderly
+8965: 工程數學1 Engineering Mathematics 1
+8966: 工程數學3 Engineering Mathematics 3
+8968: 電腦輔助工程分析 Computational Modeling and Analysis in Engineering
+8972: 商業應用軟體 Business Application Software
+8987: 氣候資料分析及數據應用 Analysis and Application of Climate Data
+8992: 普通物理學甲上 General Physics (a)(1)
+8995: 個體經濟學 Microeconomics
+8996: 財政學 Public Finance
+9000: 古代基督教歷史與文化 Ancient Christian History and Culture
+9013: 經濟植物學 Economic Botany
+9014: 計算機安全 Computer Security
+9021: 視譯 Sight Translation
+9025: 法律經濟學概論 Introduction to Law Economics
+9034: 總體經濟時間序列分析 Econometric Analysis of Macroeconomic Time Series
+9054: 個體經濟學甲上 Microeconomics (a)(Ⅰ)
+9062: 日文一上 Japanese (Ⅰ) (1)
+9063: 科技與社會研究一 Science and Technology Studies (Ⅰ)
+9064: 矽光子學 Silicon Photonics
+9066: 工程數學-微分方程(一) Engineering Mathematics-Differential Equation(Ⅰ)
+9069: 微積分1 CALCULUS (1)
+9075: 個體經濟學上 Microeconomics (1)
+9077: 普通化學實驗 General Chemistry Lab.
+9081: 普通化學實驗 General Chemistry Lab.
+9082: 普通化學實驗 General Chemistry Lab.
+9094: 植病研究法實驗 Methods in Phytopathology Lab.
+9100: 程式語言：命令程式設計 Programming Languages: Imperative Program Construction
+9101: 期貨與選擇權 Futures and Options
+9103: 期貨與選擇權 Futures and Options
+9105: 線性系統 Linear Systems
+9116: 環境分析原理 Fundamentals of Environmental Analysis
+9118: 金融科技法制與政策專題研究二 Seminar on FinTech Laws and Policies(Ⅱ)
+9121: 全球通識講座-認識全球 GLOBAL AWARENESS
+9122: 外交政策議題 Issues in Foreign Policy
+9123: 中國大陸政經發展專題 Seminar on Chinese Political Economy
+9124: 中國大陸政經發展專題研究 Seminar on Chinese Political Economy
+9125: 醫院見習 Animal Hospital Practices
+9126: 醫院見習 Animal Hospital Practices
+9129: 鋼筋混凝土學 Reinforced Concrete
+9132: 服務學習甲 Service Learning (a)
+9136: 影視幕後的商業運作 Entertainment Industry Economics
+9144: 四書：歷史與思想 Four Books: Their Times, Contexts and Philosophies
+9150: 日本政治探討 Special Topics in Japanese Politics
+9152: 演算法 Algorithms
+9155: 機器學習與深度學習導論 Introduction to Machine Learning and Deep Learning
+9168: 高等人工智慧 Advanced Artificial Intelligence
+9184: 資管新生專題 IM Freshman Project
+9187: 希伯來經典與世界文明 Hebrew Scripture and the World Civilization
+9202: 食品儀器分析 Instrumental Analysis of Food
+9214: 機器學習中的數學原理 Mathematical Principles of Machine Learning
+9220: 力學習題演練上 Mechanics : recitation(1)
+9235: 應用力學1 Applied Mechanics 1
+9237: 土壤化學 Soil Chemistry
+9240: 農業化學儀器分析一 Instrumental Methods of Agricultural Chemical Analysis (Ⅰ)
+9241: 農業化學儀器分析一 Instrumental Methods of Agricultural Chemical Analysis (I)
+9243: 免疫學 Immunology
+9244: 免疫與發炎生物學新知 Current Opinion in Immunology and Inflammation
+9245: 經濟學英文寫作基礎 Fundamental English Writing for Economics
+9248: 區塊鏈導論 Blockchain Introduction
+9249: 高等生物統計法一 Method of Advanced Biometrics (Ⅰ)
+9250: 浪漫時期英國文學 English Romanticism
+9252: 機器學習安全特論 Security and Privacy of Machine Learning
+9253: 英文(附二小時英聽)一 Freshman English (with 2-hour Aural Training) (Ⅰ)
+9288: 工程數學-線性代數 Engineering Mathematics-linear Algebra
+9300: 棒球初級 Beginning Baseball
+9301: 英文一 Freshman English (Ⅰ)
+9303: 管理學 Management
+9307: 英文一 Freshman English (Ⅰ)
+9308: 十七世紀東亞海域與臺灣 East Asian Seas and Taiwan in the Seventeenth Century
+9311: 普通物理學甲上 General Physics (a)(1)
+9312: 理論生態學導論 Introduction to Theoretical Ecology
+9316: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+9321: 氣候變遷衝擊與因應 The Impact and Adaptation of Climate Change
+9322: 多元文化與社會工作 Cultural Diversity and Social Work
+9324: 進階英語一(綜合) Online English Program Ⅰ (general)
+9326: 自動控制 Automatic Control
+9328: 進階英語一(綜合) Online English Program Ⅰ (general)
+9329: 高等機動學 Advanced Kinematics
+9330: 日文二上 Japanese (Ⅱ) (1)
+9332: 日文上 Japanese (1)
+9333: 日文一上 Japanese (Ⅰ) (1)
+9334: 日文一上 Japanese (Ⅰ) (1)
+9358: 統計方法 Statistics in Language Studies
+9362: 語音學專題獨立研究 Independent Study in Phonetics
+9375: 中級會計學上 Intermediate Accounting (1)
+9379: 作業管理研討（一） Operations Management Seminar (Ⅰ)
+9385: 代數一 Algebra(Honor Program)(Ⅰ)
+9403: 社會學甲上 Introductory Sociology (a)(1)
+9417: 會計審計法規 Laws of Accounting and Auditing
+9432: 產業風險評估與管理 Industrial Risk Assessment and Management
+9435: 應用數學一 Applied Mathematics (Ⅰ)
+9438: 投資學 Investments
+9447: 總體經濟學上 Macroeconomics (1)
+9451: 教育心理學 Educational Psychology
+9455: 教育心理學 Educational Psychology
+9461: 分析化學一 Analytical Chemistry (Ⅰ)
+9462: 應用數學一 Applied Mathematics (Ⅰ)
+9463: 2021 研究生新訓講堂：研客教條完全攻略本
+9479: 地球化學分析與實務 Principles and Practice of Geochemical Analysis
+9497: 食品安全與健康專題討論一 Seminar on Food Safety and Health(Ⅰ)
+9508: 試驗設計學 Experimental Design
+9509: 普通化學實驗 General Chemistry Lab.
+9511: 法文社會科學文獻選讀專題 Seminar on Selected Reading of French Social Sciences
+9512: 普通化學實驗 General Chemistry Lab.
+9514: 普通化學實驗 General Chemistry Lab.
+9518: 西洋歌劇史一 History of Opera (Ⅰ)
+9521: 普通化學實驗 General Chemistry Lab.
+9528: 普通化學實驗 General Chemistry Lab.
+9533: 普通化學實驗 General Chemistry Lab.
+9535: 普通化學實驗上 General Chemistry Lab. (1)
+9536: 化學實驗一 Chemistry Lab. (Ⅰ)
+9545: Python程式設計 Computer Programming in Python
+9546: Python程式設計 Computer Programming in Python
+9547: Python程式設計 Computer Programming in Python
+9549: 生涯發展與規劃(一) Career Development and Planning (Ⅰ)
+9555: 德文法學名著選讀三 Selected Readings of German Jurisprudence (Ⅲ)
+9556: 德文法學名著選讀四 Selected Readings of German Jurisprudence (Ⅳ)
+9567: 因果推論在經濟學的應用 Causal Inference in Economics
+9568: 統計學上 Statistics (1)
+9569: 現代歐洲戲劇 Modern European Drama
+9574: 生物晶片技術概論 Introduction of Biochip Technologies
+9577: 生物科學通論 Introduction of Biological Sciences
+9582: 中級會計專題 Special Topics on Intermediate Accounting
+9587: 總體經濟學上 Macroeconomics (1)
+9592: 計算機程式 Computer Programming
+9595: 動物演化發育生物學 Metazoan Evolutionary Developmental Biology
+9597: 機器學習 Machine Learning
+9601: 基礎生醫影像處理技術 Fundamentals of Biomedical Image Processing
+9606: 工場實習 Workshop Practice
+9607: 工程材料 Engineering Materials
+9616: 新生專題 Freshman Seminar
+9623: VR/AR實境技術之原理及土木工程之應用 AR/VR techniques and their applications in civil engineering
+9630: 荷蘭文一上 Dutch (Ⅰ) (1)
+9633: 荷蘭文二上 Dutch (II) (1)
+9634: 荷蘭文三上 Dutche (Ⅲ) (1)
+9643: 地質調查一 Geological Surveying (Ⅰ)
+9645: 現代科學與心靈科學 Modern Sciences and Science of Mind
+9646: 現代科學與心靈科學 Modern Sciences and Science of Mind
+9659: 財務行政 Fiscal Administration
+9669: 解析東亞繪畫 Case Studies of East Asian Paintings
+9684: 地表作用與地形 Earth Surface Processes and Landforms
+9697: 日本近現代文學選讀上 Readings in Modern and Contemporary Japanese Literature (1)
+9721: 服務設計 Service Design
+9730: 動物解剖生理學實習上 Anatomy and Physiology of Animals Laboratory (1)
+9737: 認知語言學與心理學專題研究 Seminar on Cognitive Linguistics and Psychology
+9738: 進階語音學 Advanced Phonetics
+9740: 生物產業機電工程概論 Introduction to  Bio-industrial Mechatronics Engineering
+9743: 全球化與東亞政經發展專題 Seminar on Globalization and East Asian Political Economy
+9746: GNSS在地表變形研究之應用 Application of GNSS on Studying Earth’s Surface Deformation
+9752: 由基礎到臨床：小動物內分泌學特論 Special topic of small animal basic and clinical endocrinology
+9753: 犬五大蟲媒傳染 THE BIG 5 VECTOR-BORNE DISEASES OF DOGS
+9756: 消費者行為 Consumer Behavior
+9763: 土木工程概念設計 Conceptual Design Studio
+9768: 高等熱力學一 Advanced Thermodynamics (Ⅰ)
+9773: 臺灣歷史與人物 Taiwanese History and Person
+9784: 落葉果樹一 Deciduous Fruit I
+9788: 學術英文論文寫作與發表 English Writing for Academic Purposes
+9791: 昭明文選上 Chao Ming Wen Hsuan (1)
+9798: 老子甲上 Lao Tsu (a) (1)
+9814: 普通生物學丙 General  Biology (c)
+9815: 服務學習甲 Service Learning (a)
+9838: 行銷研究 Marketing Research
+9855: 德文一上 German (Ⅰ)(1)
+9856: 德文一上 German (Ⅰ)(1)
+9879: 非營利組織管理 Nonprofit Organization Management
+9887: 網路技術與應用 Computer Networks and Applications
+9888: 老人學概論 Introductory Gerontology
+9901: 生理與記憶 Physiological Bases of Memory
+9915: 專題討論 Seminar
+9926: 創意產業專題 Topics in Creative Industries
+9936: 精密量測 Precision Metrology
+9941: 古典電力學一 Classical Electrodynamics (Ⅰ)
+9942: 流體力學 Fluid Mechanics
+9950: 泰雅語一上 Atayal(1)
+9951: 布農族語一上 Bunun(1)
+9963: 俄文二上 Russian (Ⅱ)(1)
+9982: 日文二上 Japanese (Ⅱ) (1)
+9986: 日文三上 Japanese (Ⅲ) (1)
+10014: 詩學研究法與論文寫作 Research method and thesis writing on Chinese poetics
+10015: 陶淵明詩 The poetry of Tao Yuanming
+10016: 量子物理與應用 Principles and Applications of Quantum Physics
+10019: 動作學習學 Theories of Motor Learning
+10033: 民事訴訟法上 Code  of Civil Procedure (1)
+10034: 民事訴訟法甲上 Code of Civil Procedure (a)(1)
+10050: 工程發展與社會變遷 Engineering Development and Social Trend
+10054: 陸地大氣交互作用 Land-Atmosphere Interactions
+10055: 歷史研究與寫作 Historical Study and Writing
+10064: 東亞考古學概論 Introduction to East Asian Archaeology
+10065: 考古學實踐在台灣：島嶼的過去與未來 Archaeological Practice in Taiwan – The past and future of the Islands
+10068: 電工學與實習 Electrical Engineering and Laboratory
+10070: 專題演講 Department Colloquium
+10086: 國際關係史一 History of International Relations (Ⅰ)
+10087: 中華民國對外關係 Foreign Relations of R.o.c.
+10089: 自動控制 Automatic Control
+10090: 歐洲國際關係與安全合作 European Security and Defense Cooperation
+10098: 海洋政策與全球治理專題 Seminar on Marine Policy and Global Governance
+10099: 學士專題研究一 B.s. Special Topics (Ⅰ)
+10101: 國際公法一 International Law (Ⅰ)
+10102: 專題討論 Seminar
+10103: 中華民國憲法及政府一 The Constitution \u0026 Government of the Republic of China (Ⅰ)
+10104: 工場實習 Workshop Practice
+10106: 海洋波浪力學 Introduction to WATER WAVE MECHANICS and Oceanography
+10114: 個體經濟學原理與實習 Principle of Microeconomics (with Recitation)
+10115: 人類學史 History of Anthropology
+10128: 中華民國憲法及政府一 The Constitution \u0026 Government of the Republic of China (Ⅰ)
+10129: 會計學一上 Accounting (Ⅰ)(1)
+10137: 室內五人制足球中級 Futsal (indoor Soccer)-intermediate
+10146: 深度學習在醫療影像分析上的應用 Application of Deep Learning in Medical Imaging
+10158: 中華民國憲法及政府一 The Constitution \u0026 Government of the Republic of China (Ⅰ)
+10160: 數位訊號處理架構設計 Digital Signal Processing in Vlsi Design
+10170: 會計學甲一上 Financial Accounting (A)(I)(1)
+10173: 服務學習三 Student Service Education (Ⅲ)
+10176: 史記甲上 Shih Chi (a)(1)
+10182: 自動控制 Automatic Control
+10193: 普通生物學乙上 General  Biology (b)(1)
+10196: 英文一 Freshman English (Ⅰ)
+10197: 印尼文一上 Indonesian (Ⅰ)(1)
+10198: 印尼文一上 Indonesian (Ⅰ)(1)
+10199: 印尼文二上 Indonesian (Ⅱ)(1)
+10200: 馬來文一上 Malayan (Ⅰ)(1)
+10207: 科學研究與學術生涯 Scientific Research and Academic Career
+10230: 心理測驗 Psychological Testing
+10233: PYTHON及其應用 Python and Its Applications
+10234: 計算機程式 Computer Programming
+10236: 鯨豚保育生物學 Cetacean Conservation Biology
+10252: 文化資產的歷史學 Historiography of Cultural Heritage
+10253: 新產品開發與行銷 New Product Development and Marketing
+10263: 計算機概論 Introduction to Computer
+10269: 世界史一 World History(Ⅰ)
+10280: 教學媒體與運用 Instructional Media and Practice
+10289: 工程數學-微分方程(一) Engineering Mathematics-Differential Equation(Ⅰ)
+10305: 高等物理化學一 Advanced Physical Chemistry (Ⅰ) (Chem. Thermodynamics)(Ⅰ)
+10318: 圖論一 Graph Theory (Ⅰ)
+10330: 東亞近代文學選讀 A Selection of Readings from Contemporary East Asian Literature
+10331: 臺灣文學史料與研究文獻 Research Material and Historical Documents for Taiwan Literature
+10332: 專題討論一 Seminar (Ⅰ)
+10347: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+10367: 線性控制系統 Linear Control Systems
+10373: 食品化學 Food Chemistry
+10375: 虛擬人與遙現 Virtual Human and Telepresence
+10389: 動物法醫病理學 Veterinary Forensic Pathology
+10411: 動物行為與福祉 Animal Behavior and Welfare
+10433: 地球系統模式 Earth System Model
+10438: 農產價格 Agricultural Prices
+10444: 義大利文一上 Italian (Ⅰ) (1)
+10462: 計算機概論 Introduction to Computer
+10494: 鋼琴作品與演奏欣賞 Piano Literature and Performance Appreciation
+10515: 機械工作法實習 Machine Shop Practice
+10516: 電工實驗(網路與多媒體) Electrical Engineering Lab (Networking and Multimedia)
+10524: 材料力學 Mechanics of Materials
+10576: 資料科學中的統計推論 Statistical Inference in Data Science
+10596: 西洋政治哲學概論 Introduction to Western Political Philosophy
+10597: 太極劍 Tai Chi Sword
+10598: 太極拳初級 Beginning Taijiquan
+10601: 新創事業投資評估 New Venture Investment Evaluation
+10602: 太極拳初級 Beginning Taijiquan
+10603: 太極拳初級 Beginning Taijiquan
+10604: 太極拳初級 Beginning Taijiquan
+10624: 高等統計學一 Advanced Statistics (Ⅰ)
+10645: 從文藝復興到巴洛克 From Renaissance to Baroque: Art \u0026 History, 1400-1700
+10647: 專題討論 Seminar
+10656: 急救物理治療學 Emergency Physical Therapy
+10678: 神經生物學 Neurobiology
+10682: 義大利文一上 Italian (Ⅰ) (1)
+10702: 大學國文：先秦兩漢文選上 Readings in the Pre-Chin and Han Literature(1)
+10728: 黑格爾哲學上 Philosophy of Hegel (1)
+10733: 壓電能量擷取介面電路特論 Special Topic in Piezoelectric Energy Harvesting Interfacing Circuits
+10793: 碩士專題研究 Special Project for Master Degrees Student
+10816: 英文作文二上 English Composition (Ⅱ)(1)
+10817: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+10818: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+10819: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+10820: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+10821: 英文作文一上 English Composition (Ⅰ)(1)
+10822: 英語口語訓練一上 English Oral Training (Ⅰ) (1)
+10836: 應用貝氏統計分析 Applied Bayesian Statistical Methods
+10844: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+10851: 邏輯 Logic
+10911: 國際生華語 (一) General Chinese Language Course (I)
+10921: 骨科學乙 Orthopedics (b)
+11006: 專題討論 Seminar
+11027: 探索臺灣：生技醫藥及疾病 Exploring Taiwan: Biomedical Development and Diseases
+11038: 作物模式 Crop Modeling
+11135: 經濟學原理上 Principle of Economics (1)
+11169: 微積分2 CALCULUS (2)
+11344: 新生講座-活出精彩 Freshman Forum -The Pursuit of Happiness
+11396: 商業應用軟體 Business Application Software
+11411: 新生講座-能力養成 Freshman Forum
+11421: 地景認同與地域經濟工作坊 landscape identity and local economy workshop
+11526: 計量導論 Introductory Econometrics
+11536: 人文科技的交響：新趨勢與新素養（二） The Interplay of Humanity and Technology-New Trends and New Competencies (II)
+11542: 營養生化學 Nutritional Biochemistry
+11552: 腦理論 Brain Theory
+11607: 探索語言 Uncovering Languages
+11608: 中國中古思想史 History of Thought in the Middle Ages China
+11614: 產業組織與廠商策略 Industrial Organization and Firm Strategy
+11630: 數位系統與實驗 Digital Systems Design and Laboratory
+11654: 月經:理論、思潮與行動 Period: Theory, Thoughts and Actions
+11704: 憲法理論專題討論 Seminar on Constitutional Theories
+11705: 基本人權專題研究一 Seminar on Fundamental Rights (Ⅰ)
+11708: 服務學習三 Student Service Education (Ⅲ)
+11734: 統計學一下 Statistics (I)(2)
+11745: 貨幣銀行學二 Money ﹠banking (Ⅱ)
+11764: 專題討論 Seminar
+11767: 作業系統 Operating Systems
+11779: 英文(附一小時英聽)二 Freshman English (with 1-hour Aural Training)(Ⅱ)
+11806: 一般醫學保健 Primary Care Medicine and Health
+11891: 喬伊斯專題 Seminar on James Joyce
+11897: 普通生物學丙 General  Biology (c)
+11950: 大學國文：文化思想與寫作（二） College Chinese: Culture, Thought and Writing (Ⅱ)
+11951: 大學國文：閱讀與寫作（二） College Chinese: Reading and Writing (II)
+11982: 神經網路 Neural Networks
+11983: 認知科學書報討論 Discussion on Cognitive Neuroscience Research Papers
+12005: 社會變遷與台灣民主制度 Social Change and Democracy in Taiwan
+12013: 美國憲法案例專題一 Case Study on American Constitutional Law (Ⅰ)
+12034: 經濟學原理下 Principle of Economics (2)
+12092: 領導力講座 Leadership Lectures
+12151: 西班牙語會話一 Spanish Conversation (Ⅰ)
+12154: 西班牙語會話一 Spanish Conversation (Ⅰ)
+12173: 政治學概論 Introduction to Political Science
+12175: 台灣地方政治生態專題 Seminar on Local Political Ecology in Taiwan
+12191: 去中心化應用程式之設計實務 Decentralized Applications Design and Practice
+12224: 英文二 Freshman English (Ⅱ)
+12225: 英文二 Freshman English (Ⅱ)
+12228: 韻書與上古中古漢語語音方音史 Rime Books and the History of Old and Middle Chinese and Dialects Phonology
+12235: 植物分類學 Plant Systematics
+12236: 生物科學繪圖 Biological scientific illustration
+12254: 西班牙文學名著選讀二 Selected Readings on Spanish Literature (Ⅱ)
+12260: 當代農藝論壇 Trends in Agronomy
+12273: 流行病學實例研究 Case Study in Epidemiologic Research
+12300: 大學國文：文化思想與寫作（二） College Chinese: Culture, Thought and Writing (Ⅱ)
+12367: 微觀生物物理入門 Introductory Microscopic Biophysics
+12414: 高級德語會話 Advanced German Conversation
+12448: 總體經濟學原理與實習 Principle of Macroeconomics (with Recitation)
+12554: 聲韻學甲下 Chinese Phonology (a)(2)
+12649: 食用昆蟲學 Edible Insects
+12751: 微積分預備課程 Precalculus
+12876: 民意調查 Publicopinion Survey
+12898: 羽球初級 Badminton-basic
+12942: 分析二 Analysis(Honor Program)(Ⅱ)
+12949: 老子甲下 Lao Tsu (a) (2)
+12972: 文學概論下 Introduction to Literature (2)
+12980: 探索臺灣：自然資源保育與經營管理 Exploring Taiwan: Natural Resources Conservation and Management
+12999: 資料結構與演算法 Data Structures and Algorithms
+13011: 研究大綱寫作 Crafting Research Proposal
+13012: 經濟學的政策運用 The Application of Economic Policy
+13015: 社會科學研究方法 Research Methods of Social Science
+13016: 比較東南亞政治專題 Seminar on Comparative Politics of Southeast Asia
+13019: 普通物理學甲下 General Physics (a)(2)
+13056: 微積分3 CALCULUS (3)
+13059: 微積分4 CALCULUS (4)
+13067: 流體力學導論 Fundamental of Fluid Dynamics
+13079: 有機化學實驗 Organic Chemistry Lab.
+13090: 地質調查導論一 Introduction to Field Geology (Ⅰ)
+13133: 讀中生智：英文閱讀 Reading to Connect
+13139: 讀中生智：英文閱讀 Reading to Connect
+12999: 資料結構與演算法 Data Structures and Algorithms
+13228: 羅爾斯正義論 Rawls's Theory of Justice
+13229: 服務學習甲 Service Learning (a)
+13240: 財務計量 Financial Econometrics
+13247: 藝術與創作 Creative Thinking
+13277: 專題討論三-六 Seminar (Ⅲ)-(VI)
+13292: 運動生心理健康與老化專題討論 Selected Topics for Exercise Psychophysiology of Health and Aging
+13306: 日本近現代文學選讀下 Readings in Modern and Contemporary Japanese Literature (2)
+13477: 神經生物與認知科學專題討論二 Seminar in Neurobiology and Cognitive Science(Ⅱ)
+13496: 電工實驗(網路與多媒體) Electrical Engineering Lab (Networking and Multimedia)
+13511: 碩士班書報討論IV Seminar IV（M.S.）
+13536: 網路管理與系統管理實驗 Network Administration and System Administration Laboratory
+13546: 電工實驗(電力電子) Power Electronics Laboratory
+13563: Python程式設計 Computer Programming in Python
+13564: Python程式設計 Computer Programming in Python
+13565: Python程式設計 Computer Programming in Python
+13706: 基因體與蛋白體醫學書報討論Ⅳ Seminar on Genomics and Proteomics Ⅳ
+13779: 社會學 Introductory Sociology
+13904: 總體經濟學原理 Principle of Macroeconomics
+13918: 高等作業系統 Advanced Operating System
+13919: 資訊中數導論 Computing the Universe By Information Theories
+13953: 日文下 Japanese (2)
+13961: 兒童偏差行為 Childhood Psychopathology
+13965: 周易甲下 Book of Changes (a)(2)
+14022: 演算法 Algorithms
+14030: 力學習題演練下 Mechanics : recitation(2)
+14031: 力學習題演練下 Mechanics : recitation(2)
+14106: 政府會計 Governmental Accounting
+14118: 國學概說下 Introduction to Classical Chinese Studies (2)
+14141: 專題演講 Department Colloquium
+14206: 應用選擇資料分析 Applied Discrete Choice Analysis
+14225: 英文(附一小時英聽)二 Freshman English (with 1-hour Aural Training)(Ⅱ)
+14276: 日本人類學的腳步：期刊論文選讀與分析 The Footprints of Anthropology in Japan
+14289: 英文二 Freshman English (Ⅱ)
+14291: 英文二 Freshman English (Ⅱ)
+14296: 圖論二 Graph Theory (Ⅱ)
+14369: 中級會計專題 Special Topics on Intermediate Accounting
+14384: 英文(附一小時英聽)二 Freshman English (with 1-hour Aural Training)(Ⅱ)
+14387: 電工實驗(生醫工程) Electrical Engineering Lab (biomedical Engineering)
+14393: 方案評估專題 Seminar on Program Evaluation
+14548: 現代科學與心靈科學 Modern Sciences and Science of Mind
+14561: 進階英語二(綜合) Online English Program Ⅱ (general)
+14562: 進階英語二(綜合) Online English Program Ⅱ (general)
+14583: 海洋環境管理 Marine Environmental Management
+14737: 自主海洋感知 Autonomous Ocean Sensing
+14745: 所得與就業理論二 Theory of Income and Employment (Ⅱ)
+14789: 服務學習三 Student Service Education (Ⅲ)
+14834: 鋼琴作品與演奏欣賞 Piano Literature and Performance Appreciation
+14838: 明清檔案與歷史研究 Archival Studies on Late Imperial China
+14934: 國際生華語 (二) General Chinese Language Course (II)
+15033: 行銷管理 Marketing Management
+15097: 奕璇的測試課程
+15123: 普通心理學 General Psychology
+15345: 昭明文選下 Chao Ming Wen Hsuan (2)
+15525: 創意產業經濟學 Economics of Creative Industries
+15591: 同步輻射技術在古生物與地質研究應用 (Geo5160-s1)
+15674: 111 年新進教師研習營 (2022 New Faculty Orientation)
+15986: 專題研究 Special Project
+15997: 系統動態學 System Dynamics
+15998: 普通物理學甲上 General Physics (a)(1)
+16022: 古典力學 Classical Mechanics
+16024: 統計方法 Statistics in Language Studies
+16030: 固態物理 Solid-state Physics
+16041: 憲法：基本原則與國家組織法入門 Constitution Law:Introduction to Fundamental Principles and State Organization
+16043: 金融科技 Financial Technology
+16047: 法學論證與論文寫作方法(一) Legal Argumentation and Thesis Writing(一)
+16055: 憲法 Constitution
+16058: 文學概論上 Introduction to Literature (1)
+16077: 小說選上 Readings in Chinese Fiction (1)
+16084: 大學國文：文學鑑賞與寫作（一） College Chinese: Literature Appreciation and Writing (I)
+16102: 大學國文：閱讀與寫作（一） College Chinese: Reading and Writing (I)
+16180: 氣候資料分析及數據應用 Analysis and Application of Climate Data
+16184: 身體檢查與評估 Health Assessment
+16185: 身體檢查與評估實習 Health Assessment Practice
+16186: 內外科護理學一 Medical-surgical Nursing(Ⅰ)
+16188: 內外科護理學二 Medical-surgical Nursing(Ⅱ)
+16197: 英文作文一上 English Composition (Ⅰ)(1)
+16212: 聲韻學甲上 Chinese Phonology (a)(1)
+16224: 英文作文一上 English Composition (Ⅰ)(1)
+16233: 中國文學史概說一 The Introduction of Chinese Literature History (Ⅰ)
+16327: 統計學一上 Statistics (I)(1)
+16332: 天線 Antenna
+16342: 法文一上 French (Ⅰ)(1)
+16344: 大學國文：閱讀與寫作（一） College Chinese: Reading and Writing (I)
+16385: 大學國文：閱讀與寫作（一） College Chinese: Reading and Writing (I)
+16388: 聲韻學甲上 Chinese Phonology (a)(1)
+16431: 歷代文選及習作上 Readings in Chinese Prose with Writing Practice (1)
+16433: 儒家經典選讀 Selected readings from the Confucianism classics
+16469: 公共衛生實務專題討論 Seminar in Public Health Practicum
+16480: 現代中文及習作二上 Modern Chinese and Composition (Ⅱ)(1)
+16494: 智慧型汽車導論 Introduction to Intelligent Vehicles
+16504: 疫苗學 Vaccinology
+16506: 族群遺傳學 Population Genetics
+16514: 古典電力學一 Classical Electrodynamics (Ⅰ)
+16524: 訓詁學上 Semantics (1)
+16536: 英文寫作基礎 Fundamentals of English Writing
+16542: 文字學乙上 Chinese Paleography (b)(1)
+16563: 西班牙文一上 Spanish (Ⅰ)(1)
+16621: 計算機結構 Computer Architecture
+16643: 應用力學1 Applied Mechanics 1
+16695: 一般醫學保健 Primary Care Medicine and Health
+16739: 財務工程一 Financial Engineering (Ⅰ)
+16766: 作物科學導論 Introduction to Crop Science
+16767: 作物模式 Crop Modeling
+16768: 試驗設計學 Experimental Design
+16795: 大學國文：先秦兩漢文選上 Readings in the Pre-Chin and Han Literature(1)
+16810: 普通生物學乙上 General  Biology (b)(1)
+16814: 比較企業金融法制專題研究一 Seminar on Comparative Enterprise &amp; Finacial Laws (Ⅰ)
+16835: 微生物與疾病 Microbes and Disease
+16856: 環境規劃設計實習一B Workshop of Environmental Planning and Design (Ⅰ)b
+16897: 科學研究與學術生涯 Scientific Research and Academic Career
+16927: 廢棄物處理工程 Waste Treatment Engineering
+16952: 普通心理學 General Psychology
+16969: 英文一 Freshman English (Ⅰ)
+16970: 英文一 Freshman English (Ⅰ)
+16971: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+16972: 進階英語一(綜合) Online English Program Ⅰ (general)
+16973: 進階英語一(綜合) Online English Program Ⅰ (general)
+16984: 大學國文：文化思想與寫作（一） College Chinese: Culture, Thought and Writing (Ⅰ)
+17034: 貨幣銀行學甲 Money and Banking (a)
+17037: 採訪寫作一 Reporting and Writing (Ⅰ)
+17042: 新生講座-活出精彩 Freshman Forum -The Pursuit of Happiness
+17043: 生命的學問 Wisdom of Life
+17048: 行政法一 Administrative Law
+17055: 公法專題 Seminar on Public Law
+17173: 健康與健康照護的社會與行為基礎 Social and Behavioral Foundations of Health and Health Care
+17179: 應用計量經濟學 Applied Econometrics
+17185: 探索臺灣：農業與食品生技 Exploring Taiwan: Agricultural and food biotechnology
+17196: 食品營養概論 Introduction to Nutrition and Food
+17201: 中國繪畫史 Introduction to the History of Chinese Painting
+17233: 西洋文學概論一 Introduction to Western Literature (Ⅰ)
+17244: 月經:理論、思潮與行動 Period: Theory, Thoughts and Actions
+17246: 伊斯蘭文明 Introduction to Islam, 600-1300
+17285: 線性代數 Linear Algebra
+17301: 中華民國憲法及政府一 The Constitution \u0026 Government of the Republic of China (Ⅰ)
+17302: 法文社會科學文獻選讀專題 Seminar on Selected Reading of French Social Sciences
+17310: 土壤化學 Soil Chemistry
+17330: 天文數據分析 Data Analysis in Astronomy
+17345: 植物生理學 Plant  Physiology
+17348: 東亞民主化專題 Seminar on Asian Democratization
+17354: 管制理論專題研究一 Seminar on Regulatory Theory (Ⅰ)
+17394: 氣候變遷衝擊與因應 The Impact and Adaptation of Climate Change
+17398: 土壤化學分析 Soil Chemical Analysis
+17428: 電工學與實習 Electrical Engineering and Laboratory
+17467: 中華民國憲法及政府一 The Constitution \u0026 Government of the Republic of China (Ⅰ)
+17494: 身體檢查與評估 Health Assessment
+17569: 專題討論 Seminar
+17580: 德文一上 German (Ⅰ)(1)
+17581: 德文一上 German (Ⅰ)(1)
+17643: 探索臺灣：生技醫藥及疾病 Exploring Taiwan: Biomedical Development and Diseases
+17644: 荷蘭文一上 Dutch (Ⅰ) (1)
+17676: 理論生態學導論 Introduction to Theoretical Ecology
+17678: 科技的政治社會學 Political Sociology of Science and Technology
+17712: 演算法設計與分析 Algorithm Design and Analysis
+17712: 演算法設計與分析 Algorithm Design and Analysis
+17718: 線蟲學與實驗 Nematology and Lab.
+17737: 心理及教育統計學上 Statistics in Psychology and Education (1)
+17738: 營養生化學 Nutritional Biochemistry
+17742: 認知語言學與心理學專題研究 Seminar on Cognitive Linguistics and Psychology
+17786: 電工實驗(電力電子) Power Electronics Laboratory
+17807: 線性系統 Linear Systems
+17814: 生物資訊學導論 Introduction to Bioinformatics
+17816: 財務行政 Fiscal Administration
+17827: 服務設計 Service Design
+17889: 棒球初級 Beginning Baseball
+17890: 棒球初級 Beginning Baseball
+17892: 國家發展理論與政策專題 Seminar of National Development Theory and Policy
+17914: 憲法 Constitution
+17915: 憲法 Constitution Law
+17916: 國際人權法專題討論一 Seminar on International Human Right Law (Ⅰ)
+17917: 國際人權法專題討論二 Seminar on International Human Right Law (Ⅱ)
+17944: 健康經濟學導論 Introduction to Health Economics
+17945: 資料庫管理 Database Management
+17957: 金融市場與行銷 Seminars on Financial Market and Marketing
+17970: 荷蘭文二上 Dutch (II) (1)
+17987: 期貨與選擇權 Futures and Options
+17995: 微積分乙上 Calculus (general Mathematics) (b)(1)
+18028: 地球物質實習 Earth Materials Lab.
+18029: 地球物質實習 Earth Materials Lab.
+18035: 荷蘭文三上 Dutche (Ⅲ) (1)
+18037: 地球化學分析與實務 Principles and Practice of Geochemical Analysis
+18064: 金融機構與銀行法 Regulations of Financial Institutions and Banks
+18067: 化石實習 Fossils Lab
+18118: 力學習題演練上 Mechanics : recitation(1)
+18132: 土地資源經濟專論 Special Topics on Land Resource Economics
+18145: 歐洲國際關係與安全合作 European Security and Defense Cooperation
+18161: 工程數學1 Engineering Mathematics 1
+18193: 系統專題研究-物聯網中介軟體設計 System Design Topic - Design for IoT Middleware
+18203: 靜力學 Statics
+18204: 解析東亞繪畫 Case Studies of East Asian Paintings
+18206: 微積分預備課程 Precalculus
+18209: 園產品採收後生理學 Postharvest Physiology of Horticultural Products
+18211: 園產品採收後生理實驗 Postharvest Physiology of Horticultural Products Laboratory
+18218: 語料庫輔助華語教學 Corpus-assisted Chinese language teaching
+18225: 園場操作與經營一 Horticultural Field Practice and Management (Ⅰ)
+18235: 中譯英 Translation (Chinese to English)
+18242: 自然地理調查方法 Investigation Methods in Physical Geography
+18259: 系統程式設計 Systems Programming
+18275: 服務學習乙 Service Learning (b)
+18278: 食品分析 Food Analysis
+18279: 食品衛生與安全 Food Sanitation and Safety
+18381: 森林生物多樣性概論 Introduction to Forest Biodiversity
+18383: 生物多樣性概論 Introductory Biodiversity
+18393: 普通化學實驗上 General Chemistry Lab. (1)
+18404: 研究方法 Research Methods
+18406: 社會學 Introductory Sociology
+18407: 社會學 Introductory Sociology
+18469: 歷史研究數位人文資源的介紹與實作 Digital Resources for Historical Studies
+18520: 衛生保健 Health Care
+18529: 典藏自然：自然史博物館巡禮 Archiving Nature: Introduction to the Natural History Museums
+18575: 浪漫時期英國文學 English Romanticism
+18576: 英文(附二小時英聽)一 Freshman English (with 2-hour Aural Training) (Ⅰ)
+18583: 生命科學導論 Introduction to Life Sciences
+18639: 最佳設計 Optimization in Engineering
+18653: 商業應用軟體 Business Application Software
+18664: 中級會計學上 Intermediate Accounting (1)
+18678: 碩士專題研究 Special Project for Master Degrees Student
+18685: 研究方法與表達 Research methods and presentation
+18693: 自動機與形式語言 Formal Languages and Automata Theory
+18761: 中國大陸政府與政治 Chinese Politics
+18766: 發育生物學 Developmental Biology
+18793: 教育心理學 Educational Psychology
+18795: 教育心理學 Educational Psychology
+18800: 經濟學原理上 Principle of Economics (1)
+18807: 現代神經科學技術 Modern Techniques in Neuroscience
+18871: 總體經濟學上 Macroeconomics (1)
+18876: 普通植物學實驗 General  Botany  Lab.
+18877: 普通植物學實驗 General  Botany  Lab.
+18879: 普通植物學實驗 General  Botany  Lab.
+18880: 人類發展學 Human Development
+18883: 動物組織學 Animal Histology
+18886: 金融科技法制與政策專題研究一 Seminar on FinTech Laws and Policies (Ⅰ)
+18887: 動物組織學實習 Animal Histology Lab.
+18900: 個體經濟學原理 Principle of Microeconomics
+18906: 西班牙文一上 Spanish (Ⅰ)(1)
+18907: 線性代數與應用 Linear Algebra and Its Applications
+18910: 古代基督教歷史與文化 Ancient Christian History and Culture
+18932: 西班牙文二上 Spanish (Ⅱ)(1)
+18934: 深度學習於電腦視覺 Deep Learning for Computer Vision
+18939: 希伯來經典與世界文明 Hebrew Scripture and the World Civilization
+18963: 精密量測 Precision Metrology
+18966: 印尼文一上 Indonesian (Ⅰ)(1)
+18967: 印尼文一上 Indonesian (Ⅰ)(1)
+18968: 印尼文二上 Indonesian (Ⅱ)(1)
+18969: 馬來文一上 Malayan (Ⅰ)(1)
+18995: 民事訴訟法上 Code  of Civil Procedure (1)
+18996: 民事訴訟法甲上 Code of Civil Procedure (a)(1)
+19030: 矽光子學 Silicon Photonics
+19066: 環境化學 Environmental Chemistry
+19068: 動物組織學 Animal Histology
+19071: 青少年心理學 Psychology of Adolescence
+19092: 程式語言：命令程式設計 Programming Languages: Imperative Program Construction
+19097: 線上凸最佳化 Online Convex Optimization
+19100: 動物組織學實習 Animal Histology Lab.
+19110: 阻力與推進 Resistance and Propulsion
+19171: 專題研究 Special Project
+19188: 國際關係一 Introduction to International Relations (Ⅰ)
+19192: 研究方法學導論 Research Methodology
+19249: 國際公法 International Law
+19266: 食用昆蟲學 Edible Insects
+19303: 近代日本國際關係專題 Seminar on International Relations of Modern Japan
+19316: 計算機程式 Computer Programming
+19353: 全球通識講座-認識全球 GLOBAL AWARENESS
+19362: 會計學甲一上 Financial Accounting (A)(I)(1)
+19369: 國際企業經營策略 International Business Strategy
+19371: 比較企業金融法制專題研究二 Seminar on Comparative Enterprise and Finacial Laws (Ⅱ)
+19373: 國際併購與重組管理 Managing Global Acquisitions and Restructuring
+19375: 動作學習學 Theories of Motor Learning
+19376: 資管新生專題 IM Freshman Project
+19392: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+19415: 農業化學儀器分析一 Instrumental Methods of Agricultural Chemical Analysis (I)
+19416: 農業化學儀器分析一 Instrumental Methods of Agricultural Chemical Analysis (Ⅰ)
+19436: 全球化與東亞政經發展專題 Seminar on Globalization and East Asian Political Economy
+19452: 專題討論 Seminar
+19471: 精神醫療社會工作 Psychiatric Social Work
+19521: 經濟植物學 Economic Botany
+19525: 落葉果樹一 Deciduous Fruit I
+19623: 都市微氣候研究專題討論 Special Topics on Urban Microclimatology Research
+19667: 基因體與蛋白體醫學書報討論I Seminar on Genomics and Proteomics (Ⅰ)
+19692: 工程材料 Engineering Materials
+19694: 工場實習 Workshop Practice
+19696: 碩士班書報討論I Seminar I（M.S.）
+19714: 英文一 Freshman English (Ⅰ)
+19716: 環境保護法規 Environmental Laws and Regulations
+19760: 認知科學 Cognitive Science
+19796: 神經生物與認知科學專題討論一 Seminar 1 in Neurobiology and Cognitive Science(Ⅰ)
+19826: 探索臺灣：自然資源保育與經營管理 Exploring Taiwan: Natural Resources Conservation and Management
+19869: 個體經濟學上 Microeconomics (1)
+19906: 自動控制 Automatic Control
+19957: 日文三上 Japanese (Ⅲ) (1)
+19969: 日文一上 Japanese (Ⅰ) (1)
+19995: 日文一上 Japanese (Ⅰ) (1)
+19996: 日文一上 Japanese (Ⅰ) (1)
+19999: 日文二上 Japanese (Ⅱ) (1)
+20001: 日文二上 Japanese (Ⅱ) (1)
+20002: 日文二上 Japanese (Ⅱ) (1)
+20003: 日文三上 Japanese (Ⅲ) (1)
+20020: 族群生態與漁業資源永續 Population Ecology and Sustainable Fisheries Resources
+20064: 食品加工與營養 Nutritional Evaluation of Food Processing
+20072: 區塊鏈導論 Blockchain Introduction
+20078: 電工實驗(生醫工程) Electrical Engineering Lab (biomedical Engineering)
+20081: 創新醫療器材設計 Medical Device Innovation
+20095: 工程數學3 Engineering Mathematics 3
+20130: 程式設計與資料分析 Programming and Data Analysis
+20174: 腦功能影像實驗設計與分析 Functional Brain Imaging Experimental Design and Analysis
+20243: 演算法 Algorithms
+20274: 日文上 Japanese (1)
+20286: 日文一上 Japanese (Ⅰ) (1)
+20295: 心理測驗實習 Practicum of Psychological Testing
+20297: 心理測驗 Psychological Testing
+20333: 工程數學-線性代數 Engineering Mathematics-linear Algebra
+20344: 二十世紀英國文學 Twentieth-century English Literature
+20373: 日文二上 Japanese (Ⅱ) (1)
+20386: 大學國文：閱讀與寫作（一） College Chinese: Reading and Writing (I)
+20405: 中華民國憲法及政府一 The Constitution \u0026 Government of the Republic of China (Ⅰ)
+20407: 國際公法一 International Law (Ⅰ)
+20417: 統計學上 Statistics (1)
+20418: 統計學上 Statistics (1)
+20465: 普通生物學丙 General  Biology (c)
+20469: 日文二上 Japanese (Ⅱ) (1)
+20497: 植物細胞與組織培養實習 Plant Cell and Tissue Culture Lab.
+20499: 計量經濟學的因果推論與預測 Causal Inference and Prediction in Econometrics
+20502: 計量經濟理論一B Econometric Theory (Ⅰ) B
+20513: 進階英語一(綜合) Online English Program Ⅰ (general)
+20516: 莎士比亞十四行詩 Shakespeare’s Sonnets
+20517: 十四行詩工作坊 Sonnet Workshop
+20521: 高等熱力學一 Advanced Thermodynamics (Ⅰ)
+20529: 離散數學 Discrete Mathematics
+20533: 中等流體力學 Intermediate Fluid Mechanics
+20552: 中國政治思想專題 Seminar on Chinese Political Thoughts
+20556: 西歐文明：上古到1400 Western Civilization: From the Ancient Period to 1400
+20557: 瑜珈 Yoga
+20559: 系統識別 System Identification
+20566: 專題討論 Seminar
+20571: 專題討論 Seminar
+20640: 計算機程式設計 Introduction to Computer Programming
+20642: 高等生物統計法一 Method of Advanced Biometrics (Ⅰ)
+20672: 日文一上 Japanese (Ⅰ) (1)
+20673: 日文一上 Japanese (Ⅰ) (1)
+20675: 日文二上 Japanese (Ⅱ) (1)
+20677: 數學之美 Beauty of Math
+20679: 急救物理治療學 Emergency Physical Therapy
+20699: 數位行銷 Digital Marketing
+20705: 工程數學1 Engineering Mathematics 1
+20706: 財政學 Public Finance
+20738: 中級會計專題 Special Topics on Intermediate Accounting
+20803: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+20815: 計算機結構 Computer Architecture
+20818: 西洋政治哲學概論 Introduction to Western Political Philosophy
+20851: 骨科學乙 Orthopedics (b)
+20853: 管理學 Management
+20961: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+21003: VR/AR實境技術之原理及土木工程之應用 AR/VR techniques and their applications in civil engineering
+21063: 虛擬人與遙現 Virtual Human and Telepresence
+21082: 基督宗教與世界史專題 Seminar on Christianity and World History
+21131: 預測，語言，與大腦 Prediction, language, and the brain
+21182: 總體經濟學上 Macroeconomics (1)
+21200: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+21205: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+21206: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+21208: 英文作文二上 English Composition (Ⅱ)(1)
+21209: 英文作文一上 English Composition (Ⅰ)(1)
+21210: 英語口語訓練一上 English Oral Training (Ⅰ) (1)
+21262: 電子學（一） Electronics (Ⅰ)
+21267: 工程系統之熱管理對策 Thermal Management Strategy for Engineering Systems
+21276: 海洋政策與全球治理專題 Seminar on Marine Policy and Global Governance
+21310: 農業智慧財產權 Agricultural Intellectual Property Right
+21324: 視譯 Sight Translation
+21388: 國際生華語 (一) General Chinese Language Course (I)
+21486: 農產價格 Agricultural Prices
+21492: 水產概論 Instroduction of Fisheries Science
+21493: 水產概論 Introduction of Fisheries Science
+21495: 數位訊號處理架構設計 Digital Signal Processing in Vlsi Design
+21534: 犬五大蟲媒傳染 THE BIG 5 VECTOR-BORNE DISEASES OF DOGS
+21628: 終極關卡：死亡、瀕死與死後境界探索 The Ultimate Buffer: Death and Dying Envisioned from the Other Side
+21673: 鋼琴作品與演奏欣賞 Piano Literature and Performance Appreciation
+21703: 2022 研究生新訓講堂
+22047: 社會科學研究方法 Research Methods of Social Science
+22085: 經濟學的政策運用 The Application of Economic Policy
+22129: 虛擬機器 Virtual Machines
+22133: 貨幣銀行學二 Money ﹠banking (Ⅱ)
+22134: 大學國文：文化思想與寫作（二） College Chinese: Culture, Thought and Writing (Ⅱ)
+22137: 數位系統與實驗 Digital Systems Design and Laboratory
+22141: 衛生保健 Health Care
+22181: 政治學概論 Introduction to Political Science
+22182: 台灣地方政治生態專題 Seminar on Local Political Ecology in Taiwan
+22200: 機器學習 Machine Learning
+22207: 普通生物學丙 General  Biology (c)
+22213: 腦科學技術 Technology of Brain Science
+22217: 音樂、演化與大腦 Music, Evolution and the Brain
+22241: 腦理論 Brain Theory
+22273: 經濟史一 Economic History (Ⅰ)
+22286: 探索臺灣：女性與臺灣社會 Exploring Taiwan: Women and Taiwanese Society
+22287: 探索臺灣:臺灣電影與臺灣社會 Exploring Taiwan: Film and Social Culture in Taiwan
+22347: 統計學一下 Statistics (I)(2)
+22437: 作物學甲 Farm Crops (a)
+22455: 運動與體重管理（選修體育） Exercise and Weight Management (elective course of PE)
+22460: 國家體育政策 The Government and Politics of Sport
+22468: 法文經典文獻選讀專題 Seminar on French Classical Reading
+22528: 助人專業者之個人成長專題 Topics in Self Development for Helping Professionals
+22544: 食品營養概論 Introduction to Nutrition and Food
+22545: 探索臺灣：農業與食品生技 Exploring Taiwan: Agricultural and food biotechnology
+22584: 西班牙文一下 Spanish (Ⅰ)(2)
+22586: 西班牙文學名著選讀二 Selected Readings on Spanish Literature (Ⅱ)
+22650: 中華民國憲法及政府二 The Constitution \u0026 Government of the Republic of China (Ⅱ)
+22659: 大學國文：初階語文下 College Chinese: Primary Level(2)
+22677: 月經:理論、思潮與行動 Period: Theory, Thoughts and Actions
+22701: 神經網路 Neural Networks
+22703: 認知科學書報討論 Discussion on Cognitive Neuroscience Research Papers
+22754: 商業應用軟體 Business Application Software
+22793: 學術英文論文寫作與發表 English Writing for Academic Purposes
+22938: 神經語言學專題研究 Neurolinguistics Seminar
+22987: 新生講座-活出精彩 Freshman Forum -The Pursuit of Happiness
+22998: 比較企業金融法制專題研究一 Seminar on Comparative Enterprise &amp; Finacial Laws (Ⅰ)
+23041: 喬伊斯小說 Selected Readings of James Joyce's Fiction
+23059: 網路管理與系統管理實驗 Network Administration and System Administration Laboratory
+23093: 同步輻射技術在古生物與地質研究應用 Synchrotron Techniques in Paleontological and Geological Investigations
+23115: BIM技術與應用 Technology and Application of BIM
+23157: 你所不知道的昆蟲學 What Really Bugs You
+23173: 應用選擇資料分析 Applied Discrete Choice Analysis
+23182: 材料科學導論二 Introduction to Materials (Ⅱ)
+23234: 作業系統 Operating Systems
+23258: 最佳化演算法 Optimization Algorithms
+23269: 預測、學習、與賽局 Prediction, Learning, and Games
+23302: 專題討論 Seminar
+23323: 文學概論下 Introduction to Literature (2)
+23471: 比較企業金融法制專題研究二 Seminar on Comparative Enterprise and Finacial Laws (Ⅱ)
+23546: 早期美國文學 Early American Literature
+23550: 高等作業系統 Advanced Operating System
+23551: 資訊中數導論 Computing the Universe By Information Theories
+23566: 改變歷史的生物(二) Organisms that changed history(2)
+23580: 言論自由專題研究一 Seminar on Freedom of Expression (Ⅰ)
+23581: 德文法學名著選讀一 Selected Readings of German Jurisprudence (Ⅰ)
+23585: 計算機結構 Computer Architecture
+23590: 電工實驗(電力電子) Power Electronics Laboratory
+23611: 內外科護理學實習二 Medical-surgical Nursing Practice(Ⅱ)
+23686: 積體電路設計 Integrated Circuit Design
+23877: 羽球初級 Badminton-basic
+23888: 清代臺灣開發史 History of Taiwan's Development in the Ching Period
+23932: 探索語言 Uncovering Languages
+23967: 東亞民主化專題 Seminar on Asian Democratization
+23990: 比較企業金融法制專題研究三 Seminar on Comparative Enterprise &amp; Finacial Laws (Ⅲ)
+24062: 微積分預備課程 Precalculus
+24094: 粒子天文物理學 Particle Astrophysics
+24195: 財務個案分析 Case Study of Financial Management
+24259: 服務學習乙 Service Learning (b)
+24313: 生物科技管理與產業分析 Management and Analysis in the Biotechnology Industry
+24325: 計量導論 Introductory Econometrics
+24346: 雲動力學實作 Workshop on Cloud Dynamics
+24349: 內外科護理學二 Medical-surgical Nursing (Ⅱ)
+24354: 生物科學繪圖 Biological scientific illustration
+24456: 國際企業經營策略 International Business Strategy
+24488: 國際併購與重組管理 Managing Global Acquisitions and Restructuring
+24606: 總體經濟學原理 Principle of Macroeconomics
+24739: 心理及教育統計學下 Statistics in Psychology and Education (2)
+24761: 人工智慧導論 Foundations of Artificial Intelligence
+24761: 人工智慧導論 Foundations of Artificial Intelligence
+24789: 社會學 Introductory Sociology
+24790: 社會學 Introductory Sociology
+24887: 英美法導論 Introduction to Anglo-american Law
+24888: 國際環境法專題研究一 Seminar on International Environmental Law(Ⅰ)
+24889: 國際環境法專題研究二 Seminar on International Environmental Law(Ⅱ)
+24931: 去中心化應用程式之設計實務 Decentralized Applications Design and Practice
+25056: 英文二 Freshman English (Ⅱ)
+25057: 英文二 Freshman English (Ⅱ)
+25152: 西班牙文二下 Spanish (Ⅱ)(2)
+25235: 自主海洋感知 Autonomous Ocean Sensing
+25269: 園場操作與經營二 Horticultural Field Practice and Management (Ⅱ)
+25344: 密碼學與資訊安全 Cryptography and Network Security
+25407: 碩士班書報討論II Seminar II（M.S.）
+25482: 華語文教材教法 Methods and Materials of Chinese Language Teaching
+25532: 森林生物多樣性概論 Introduction to Forest Biodiversity
+25551: 演算法 Algorithms
+25553: 基因體與蛋白體醫學書報討論Ⅱ Seminar on Genomics and Proteomics Ⅱ
+25558: 食用昆蟲學 Edible Insects
+25585: 電工實驗(生醫工程) Electrical Engineering Lab (biomedical Engineering)
+25650: 探索臺灣：自然資源保育與經營管理 Exploring Taiwan: Natural Resources Conservation and Management
+25686: 專題研究 Research
+25951: 創新和產業經濟學 Innovation and Industrial Economics
+25974: 產業發展策略 Industrial Development Strategy
+25975: 消費經濟論 Theory of Consumption Economics
+26111: 民意調查 Publicopinion Survey
+26207: 華語文教材教法 Methods and Materials of Chinese Language Teaching
+26236: 進階英語二(綜合) Online English Program Ⅱ (general)
+26237: 進階英語二(綜合) Online English Program Ⅱ (general)
+26239: 進階英語二(綜合) Online English Program Ⅱ (general)
+26243: 專題討論 Seminar
+26244: 專題討論 Seminar
+26322: 英文(附一小時英聽)二 Freshman English (with 1-hour Aural Training)(Ⅱ)
+26369: 應用文及習作 Chinese Correspondence and Writing Practice
+26398: 英文(附一小時英聽)二 Freshman English (with 1-hour Aural Training)(Ⅱ)
+26449: 中級會計專題 Special Topics on Intermediate Accounting
+26456: 文藝復興 The Renaissance
+26466: 動物法醫病理學 Veterinary Forensic Pathology
+26473: 組合學二 Combinatorics (Ⅱ)
+26501: 密碼學導論 Introduction to Cryptography
+26542: 英美法學名著選讀一 Selected Readings of Anglo-american Jurisprudence (Ⅰ)
+26578: 密碼學 Cryptography
+26626: 現代科學與心靈科學 Modern Sciences and Science of Mind
+26673: 海洋環境管理 Marine Environmental Management
+26729: 歐洲海外擴張史 History of European Expansion
+26868: 機率 Probability
+27061: 國際生華語 (二) General Chinese Language Course (II)
+27391: 112-1 微積分預備課程 (Online0015)
+27409: 創意產業經濟學 Economics of Creative Industries
+27544: 112 年新進教師研習營 (2023 New Faculty Orientation)
+27752: 線性系統 Linear Systems
+27807: 專題研究 Research Training
+27817: 比較政府與政治專題 Seminar on Comparative Government and Poitics
+27827: 政治學概論 Introduction to Political Science
+27836: 政黨與選舉制度 Political Parties and Electoral System
+27844: 經濟發展 Economic Development
+27863: 中級會計專題 Special Topics on Intermediate Accounting
+27892: 人機互動介面：產學發展與走向 Human Computer Interaction in Industry
+27893: 自動機與形式語言 Formal Languages and Automata Theory
+27944: 採訪寫作一 Reporting and Writing (Ⅰ)
+28015: 系統動態學 System Dynamics
+28052: 專題討論 Seminar
+28068: 繪本翻譯專題研究 Translating Picturebooks
+28072: 改變歷史的生物(一) Organisms that changed history(1)
+28101: 物流管理 Logistics Management
+28211: 水質化學 Water Chemistry
+28222: VR/AR實境技術之原理及土木工程之應用 AR/VR techniques and their applications in civil engineering
+28224: 喬伊斯專題 Seminar on James Joyce
+28238: 自然地理調查方法 Investigation Methods in Physical Geography
+28263: 新生講座-活出精彩 Freshman Forum -The Pursuit of Happiness
+28266: 生物資訊學導論 Introduction to Bioinformatics
+28299: 金融市場與行銷 Seminars on Financial Market and Marketing
+28330: 健康與健康照護的社會與行為基礎 Social and Behavioral Foundations of Health and Health Care
+28369: 專題討論 Seminar
+28455: 行政法一 Administrative Law
+28458: 莎士比亞十四行詩 Shakespeare’s Sonnets
+28459: 公法專題 Seminar on Public Law
+28462: 十四行詩工作坊 Sonnet Workshop
+28488: 高等專題研究 Advanced Topical Research
+28498: 應用倫理學 Applied Ethics
+28499: 心理統計學上 Psychological Statistics (1)
+28502: 臨床試驗計畫書一 Clinical Trial Protocols 1(Ⅰ)
+28506: 探索臺灣：生技醫藥及疾病 Exploring Taiwan: Biomedical Development and Diseases
+28510: 憲法 Constitution
+28553: 系統思考與學習型組織 Systems Thinking and Learning Organization
+28576: 近現代文學批評（二）：跨文化的視野 Modern Literary Criticism II: Cross-Cultural Perspectives
+28579: 營養生化學 Nutritional Biochemistry
+28580: 食品營養概論 Introduction to Nutrition and Food
+28583: 固態物理 Solid-state Physics
+28588: 氣候變遷衝擊與因應 The Impact and Adaptation of Climate Change
+28599: 法文一上 French (Ⅰ)(1)
+28613: 早期美國文學 Early American Literature
+28677: 大學國文：文化思想與寫作（一） College Chinese: Culture, Thought and Writing (Ⅰ)
+28678: 大學國文：文學鑑賞與寫作（一） College Chinese: Literature Appreciation and Writing (I)
+28685: 食品分析 Food Analysis
+28686: 食品衛生與安全 Food Sanitation and Safety
+28712: 統計學一上 Statistics (I)(1)
+28715: 個體經濟學上 Microeconomics (1)
+28779: 土壤化學分析 Soil Chemical Analysis
+28803: 矽光子學 Silicon Photonics
+28839: 新聞法律與倫理 Media Law and Ethics
+28842: 月經:理論、思潮與行動 Period: Theory, Thoughts and Actions
+28843: 解析東亞繪畫 Case Studies of East Asian Paintings
+28851: 儒家經典選讀 Selected readings from the Confucianism classics
+28896: 國際遷移 International Migration
+28897: 粒子天文物理學 Particle Astrophysics
+28963: 專業人才溝通術 Professionalism in Action
+28965: 職場英文寫作與口語表達 English Written and Oral Communication for Professional Pursuit
+28971: 職場英文寫作與口語表達 English Written and Oral Communication for Professional Pursuit
+28981: 英文寫作基礎 Fundamentals of English Writing
+29001: 身體檢查與評估 Health Assessment
+29002: 身體檢查與評估實習 Health Assessment Practice
+29003: 內外科護理學一 Medical-surgical Nursing(Ⅰ)
+29004: 內外科護理學二 Medical-surgical Nursing(Ⅱ)
+29009: 商業應用軟體 Business Application Software
+29016: 計量經濟學的因果推論與預測 Causal Inference and Prediction in Econometrics
+29017: 計量經濟理論一B Econometric Theory (Ⅰ) B
+29026: 理論生態學導論 Introduction to Theoretical Ecology
+29044: BIM技術與應用 Technology and Application of BIM
+29089: 衛生保健 Health Care
+29095: 研究大綱寫作 Crafting Research Proposal
+29108: 身體檢查與評估 Health Assessment
+29132: 精神醫療社會工作 Psychiatric Social Work
+29144: 荷蘭文一上 Dutch (Ⅰ) (1)
+29269: 中級會計學上 Intermediate Accounting (1)
+29282: 德文一上 German (Ⅰ)(1)
+29283: 德文一上 German (Ⅰ)(1)
+29285: 荷蘭文二上 Dutch (II) (1)
+29306: 應用力學1 Applied Mechanics 1
+29336: 地球物質實習 Earth Materials Lab.
+29337: 地球物質實習 Earth Materials Lab.
+29340: 地球化學分析與實務 Principles and Practice of Geochemical Analysis
+29363: 氣候資料分析及數據應用 Analysis and Application of Climate Data
+29374: 經濟學原理上 Principle of Economics (1)
+29391: 資料庫管理 Database Management
+29418: 細胞分子生物學 Molecular Cell Biology
+29473: 貨幣銀行學甲 Money and Banking (a)
+29477: 族群生態與漁業資源永續 Population Ecology and Sustainable Fisheries Resources
+29479: 動作學習學 Theories of Motor Learning
+29506: 農業化學儀器分析一 Instrumental Methods of Agricultural Chemical Analysis (I)
+29508: 農業化學儀器分析一 Instrumental Methods of Agricultural Chemical Analysis (Ⅰ)
+29544: 微生物與疾病 Microbes and Disease
+29620: 國際公法 International Law
+29628: 生命科學導論 Introduction to Life Sciences
+29665: 認知科學 Cognitive Science
+29666: 普通化學甲上 General Chemistry (a)(1)
+29677: 腦功能影像實驗設計與分析 Functional Brain Imaging Experimental Design and Analysis
+29713: 古代基督教歷史與文化 Ancient Christian History and Culture
+29717: 虛擬人與遙現 Virtual Human and Telepresence
+29753: 財務工程一 Financial Engineering (Ⅰ)
+29780: 全球化與東亞政經發展專題 Seminar on Globalization and East Asian Political Economy
+29783: 廢棄物處理工程 Waste Treatment Engineering
+29796: 雲動力學 Cloud Dynamics
+29798: 族群遺傳學 Population Genetics
+29839: 總體經濟學上 Macroeconomics (1)
+29881: 疫苗學 Vaccinology
+29882: 公共衛生實務專題討論 Seminar in Public Health Practicum
+29892: 基因體與蛋白體醫學書報討論I Seminar on Genomics and Proteomics (Ⅰ)
+29914: 環境化學 Environmental Chemistry
+29917: 生物多樣性概論 Introductory Biodiversity
+29964: 生物技術核心實驗 Biotechnology Core Techniques
+29989: 微積分乙上 Calculus (general Mathematics) (b)(1)
+30049: 園產品採收後生理學 Postharvest Physiology of Horticultural Products
+30070: 園產品採收後生理實驗 Postharvest Physiology of Horticultural Products Laboratory
+30075: 園場操作與經營一 Horticultural Field Practice and Management (Ⅰ)
+30098: 演化生物學 Evolutionary Biology
+30120: 普通植物學實驗 General  Botany  Lab.
+30121: 普通植物學實驗 General  Botany  Lab.
+30133: 埋藏學：陰曹地府的秘密 Taphonomy: Secrets of the Underworld
+30134: 地層學 Stratigraphy
+30136: 沉積岩地層野外探究與實作 Sedimentary Rocks and Stratigraphy: Inquiry and Practice
+30138: 化石實習 Fossils Lab
+30139: 化石 Fossils
+30140: 中等流體力學 Intermediate Fluid Mechanics
+30144: 希伯來經典與世界文明 Hebrew Scripture and the World Civilization
+30216: 國際併購與重組管理 Managing Global Acquisitions and Restructuring
+30223: 經濟植物學 Economic Botany
+30235: 古典電力學一 Classical Electrodynamics (Ⅰ)
+30266: 交換電路與邏輯設計 Switching Circuit and Logic Design
+30309: 水產概論 Instroduction of Fisheries Science
+30310: 水產概論 Introduction of Fisheries Science
+30315: 統計方法 Statistics in Language Studies
+30319: 華人法律傳統專題討論 Seminar on Chinese Legal Tradition
+30339: 進階語音學 Advanced Phonetics
+30343: 科學研究與學術生涯 Scientific Research and Academic Career
+30349: 動物組織學 Animal Histology
+30382: 土壤化學 Soil Chemistry
+30474: 典藏自然：自然史博物館巡禮 Archiving Nature: Introduction to the Natural History Museums
+30481: 日文一上 Japanese (Ⅰ) (1)
+30482: 日文一上 Japanese (Ⅰ) (1)
+30483: 日文一上 Japanese (Ⅰ) (1)
+30484: 日文二上 Japanese (Ⅱ) (1)
+30485: 落葉果樹一 Deciduous Fruit I
+30505: 精密量測 Precision Metrology
+30520: 區塊鏈導論 Blockchain Introduction
+30532: 研究法 Research Method
+30544: 國際人權法專題討論一 Seminar on International Human Right Law (Ⅰ)
+30545: 國際人權法專題討論二 Seminar on International Human Right Law (Ⅱ)
+30546: 憲法 Constitution
+30547: 憲法 Constitution Law
+30551: 國際關係一 Introduction to International Relations (Ⅰ)
+30560: 英文一 Freshman English (Ⅰ)
+30587: 動物組織學實習 Animal Histology Lab.
+30595: 森林生物多樣性概論 Introduction to Forest Biodiversity
+30603: 農業智慧財產權 Agricultural Intellectual Property Right
+30605: 數位行銷 Digital Marketing
+30681: 高等生物統計法一 Method of Advanced Biometrics (Ⅰ)
+30683: 動物組織學 Animal Histology
+30684: 動物組織學實習 Animal Histology Lab.
+30715: 老人學概論 Introductory Gerontology
+30742: 自動控制 Automatic Control
+30752: 日文一上 Japanese (Ⅰ) (1)
+30778: 植物細胞與組織培養實習 Plant Cell and Tissue Culture Lab.
+30781: 食品加工與營養 Nutritional Evaluation of Food Processing
+30788: 英文一 Freshman English (Ⅰ)
+30789: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+30812: 期貨與選擇權 Futures and Options
+30814: 深度學習之應用 Applied Deep Learning
+30823: 日文上 Japanese (1)
+30835: 研究方法與表達 Research methods and presentation
+30846: 電工實驗(生醫工程) Electrical Engineering Lab (biomedical Engineering)
+30847: 創新醫療器材設計 Medical Device Innovation
+30849: 莊子哲學 The Philosophy of Zhuangzi
+30861: 日文一上 Japanese (Ⅰ) (1)
+30864: 進階英語一(綜合思辨) Online English Program I (General Critical Thinking)
+30899: 地質調查一 Geological Surveying (Ⅰ)
+30977: 田園生活體驗二 Hand-on Experience of Field Life (Ⅱ)
+30988: 現代農業體驗二 Hand-on Experience of Modern Agriculture (Ⅱ)
+31009: 普通物理學甲上 General Physics (a)(1)
+31013: 日文三上 Japanese (Ⅲ) (1)
+31017: 進階英語一(綜合) Online English Program Ⅰ (general)
+31018: 進階英語一(綜合) Online English Program Ⅰ (general)
+31034: 工程材料 Engineering Materials
+31043: 民法概要乙 Outline of Civil Code (b)
+31068: 民事訴訟法上 Code  of Civil Procedure (1)
+31069: 社會學 Introductory Sociology
+31070: 社會學 Introductory Sociology
+31091: 民事訴訟法甲上 Code of Civil Procedure (a)(1)
+31167: 高齡身體活動與營養研究 Physical Activity and Nutrition Research in Elderly
+31196: 金融機構與銀行法 Regulations of Financial Institutions and Banks
+31200: 金融科技法制與政策專題研究一 Seminar on FinTech Laws and Policies (Ⅰ)
+31219: 天文數據分析 Data Analysis in Astronomy
+31287: 農業社會學專題討論 Seminar on Agriculture Sociology
+31289: 管理學 Management
+31314: 前瞻資訊科技一 Computer Science and Information Technology (Ⅰ)
+31319: 木質文化資產保存特論 Special Topics on Conservation of Wooden Cultural Properties
+31329: 西班牙傳統文化 Spanish Traditional Culture
+31331: 西班牙文二上 Spanish (Ⅱ)(1)
+31340: 個體經濟學上 Microeconomics (1)
+31414: 木材組織學及實驗 Wood Anatony and Lab
+31508: 科技的政治社會學 Political Sociology of Science and Technology
+31601: 計算機網路 Computer Networks
+31608: 研究方法學導論 Research Methodology
+31681: 智慧感測系統設計 Design for Smart Sensing Systems
+31683: 演算法設計與分析 Algorithm Design and Analysis
+31706: 西洋政治哲學概論 Introduction to Western Political Philosophy
+31722: 都市微氣候研究專題討論 Special Topics on Urban Microclimatology Research
+31783: 工場實習 Workshop Practice
+31816: 電工學與實習 Electrical Engineering and Laboratory
+31839: 電工實驗(電力電子) Power Electronics Laboratory
+31853: 電子學（一） Electronics (Ⅰ)
+31854: 線上凸最佳化 Online Convex Optimization
+31857: 深度學習於電腦視覺 Deep Learning for Computer Vision
+31867: 計算機系統實驗 Computer System Laboratory
+31920: 食用昆蟲學 Edible Insects
+31934: 工程數學-線性代數 Engineering Mathematics-linear Algebra
+31957: 歐洲國際關係與安全合作 European Security and Defense Cooperation
+31964: 分析化學一 Analytical Chemistry (Ⅰ)
+31985: 圖論一 Graph Theory (Ⅰ)
+31999: 西歐文明：上古到1400 Western Civilization: From the Ancient Period to 1400
+32004: 組合學進階專題 Advanced Topics in Combinatorics
+32049: 計算機程式 Computer Programming
+32089: 日文二上 Japanese (Ⅱ) (1)
+32090: 日文二上 Japanese (Ⅱ) (1)
+32129: 急救物理治療學 Emergency Physical Therapy
+32133: 大學國文：閱讀與寫作（一） College Chinese: Reading and Writing (I)
+32149: 工程數學3 Engineering Mathematics 3
+32156: 泰雅語一上 Atayal(1)
+32159: 布農族語一上 Bunun(1)
+32189: 網路技術與應用 Computer Networks and Applications
+32195: 教育心理學 Educational Psychology
+32247: 健康經濟學導論 Introduction to Health Economics
+32300: 計算機結構 Computer Architecture
+32303: 計算機結構 Computer Architecture
+32305: 自動控制 Automatic Control
+32329: 大學國文：先秦兩漢文選上 Readings in the Pre-Chin and Han Literature(1)
+32374: 網路服務程式設計 Web Programming
+32388: 現代神經科學技術 Modern Techniques in Neuroscience
+32398: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+32399: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+32400: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+32401: 英文(附一小時英聽)一 Freshman English (with 1-hour Aural Training)(Ⅰ)
+32414: 專題討論 Seminar
+32421: 專題討論 Seminar
+32435: 系統程式設計 Systems Programming
+32446: 骨科學乙 Orthopedics (b)
+32470: 金融科技與創新 Financial Technology and Innovation
+32477: 機器學習 Machine Learning
+32563: 中華民國憲法及政府一 The Constitution \u0026 Government of the Republic of China (Ⅰ)
+32565: 海洋政策與全球治理專題 Seminar on Marine Policy and Global Governance
+32572: 計算機程式設計 Introduction to Computer Programming
+32606: 國際公法一 International Law (Ⅰ)
+32680: 專題研究 Special Research
+32686: 工程數學1 Engineering Mathematics 1
+32765: 數位訊號處理架構設計 Digital Signal Processing in Vlsi Design
+32772: 農產價格 Agricultural Prices
+32825: 國際生華語 (一) General Chinese Language Course (I)
+32921: 鋼琴作品與演奏欣賞 Piano Literature and Performance Appreciation
+32989: 2023 研究生新訓講堂
+33060: 犬五大蟲媒傳染 THE BIG 5 VECTOR-BORNE DISEASES OF DOGS
