@@ -21,7 +21,7 @@ To run the scraper with default settings
 
 ## Output
 
-The script will generate an output file final_output.txt that will contain the list of course IDs and their names.
+The script will generate an output file `final_output.txt` that will contain the list of course IDs and their names.
 
 ## Note
 
