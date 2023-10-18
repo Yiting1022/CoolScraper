@@ -1,5 +1,5 @@
 # NTU Courses Web Scraper
-A script to scrape courses that are available on the NTUCOOL. 
+A script to scrape courses that are available for public on the NTUCOOL. 
 
 ## Prerequisites
 
